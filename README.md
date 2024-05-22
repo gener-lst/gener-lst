@@ -1,8 +1,11 @@
 ## 공사중입니다..
 
+![gener-lst's GitHub stats](https://github-readme-stats.vercel.app/api?username=gener-lst&show_icons=true&theme=transparent)
+<!--
 [![gener-lst's GitHub stats](https://github-readme-stats.vercel.app/api?
 username=gener-lst&include_all_commits=true&show_icons=true&theme=cobalt)]
 (https://github.com/gener-lst/github-readme-stats)
+-->
 <!--
 **gener-lst/gener-lst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
