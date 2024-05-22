@@ -17,4 +17,4 @@
   </div>
 </div>
 
-<h3 align="center"> 🚧 공사중입니다...🚧 </h3>
+<h3 align="center"> 🚧 공사중입니다 🚧 </h3>
