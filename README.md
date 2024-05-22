@@ -1,9 +1,9 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinCheolKim&fontSize=90" />
 </div>
-<div align=left>
-  ![gener-lst's GitHub stats](https://github-readme-stats.vercel.app/api?username=gener-lst&include_allcommits=true&show_icons=true&theme=prussian)
-</div>
+
+![gener-lst's GitHub stats](https://github-readme-stats.vercel.app/api?username=gener-lst&include_allcommits=true&show_icons=true&theme=prussian)
+
 <div>
   <h3 align="center">📫 Contact 📫</h3>
   <div align="center">
@@ -16,4 +16,5 @@
     </a>
   </div>
 </div>
+
 ## 🚧 공사중입니다...🚧
