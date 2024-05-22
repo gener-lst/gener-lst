@@ -12,7 +12,7 @@
     </a>
     <a href="mailto:ofin0613@naver.com">
       <img
-        src="https://img.shields.io/badge/ofin0613@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+        src="https://img.shields.io/badge/ofin0613@naver.com-1EC800?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
     </a>
   </div>
 </div>
