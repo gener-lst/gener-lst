@@ -1,6 +1,5 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinCheolKim&fontSize=90" />
-
 ## 🚧 공사중입니다...🚧
 
 ![gener-lst's GitHub stats](https://github-readme-stats.vercel.app/api?username=gener-lst&include_allcommits=true&show_icons=true&theme=prussian)
